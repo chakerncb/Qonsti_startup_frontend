@@ -562,6 +562,9 @@ p {
   margin: auto;
   margin-bottom: 30px;
 }
+.text2 {
+  font-size: 100px;
+}
 
 @media (max-width: 767px) {
   .ud-hero-content .ud-hero-desc {
